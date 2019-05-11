@@ -3,3 +3,5 @@ def something
 end
 
 something
+
+J'aime pourrire le code des autres
